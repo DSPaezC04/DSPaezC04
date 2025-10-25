@@ -26,8 +26,9 @@ Además, mi experiencia en **diseño gráfico, animación y motion graphics** me
 ### 🎓 Educación
 
 - 🎓 **Ingeniería en Multimedia** — Universidad Militar Nueva Granada (2021 - Presente)  
-- 🤖 **Intercambio en Inteligencia Artificial** — Instituto Politécnico Internacional, CDMX (2024 - 2025)  
-- 🌍 **Inglés Nivel B2** (actualmente finalizando C1) — Academia Smart  
+- 🤖 **Intercambio en Inteligencia Artificial** — Instituto Politécnico Internacional, CDMX (2024 - 2025)
+- 🤖 **Curso de Introudccion al desarrollo web**
+- 🌍 **Inglés Nivel C1** — Academia Smart  
 - 🎓 **Bachillerato** — Colegio Santa Bárbara (2020)
 
 ---
@@ -52,20 +53,10 @@ Además, mi experiencia en **diseño gráfico, animación y motion graphics** me
 
 ---
 
-### 📂 Portafolio
-Puedes explorar mis proyectos y trabajos visuales en mi [portafolio en ArtStation](https://www.artstation.com/davidpaez_animator).
-
----
-
 ### 🌱 Actualmente aprendiendo
 - React avanzado ⚛️  
 - Integración con Firebase 🔥  
 - UX/UI para interfaces interactivas 🎨  
-
----
-
-### 💬 Frase que me inspira
-> “La creatividad es inteligencia divirtiéndose.” — *Albert Einstein*
 
 ---
 
