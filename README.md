@@ -1,62 +1,80 @@
 <!-- 🌟 README de presentación personal en GitHub -->
 
 <h1 align="center">👋 ¡Hola! Soy <span style="color:#4FC3F7;">David Santiago Páez</span></h1>
-<h3 align="center">🎨 Estudiante de Ingeniería Multimedia | 💻 Desarrollador Front-End | 🧠 Creativo Digital</h3>
+<h3 align="center"> Estudiante de Ingeniería Multimedia | Desarrollador Front-End | Creativo Digital</h3>
 
 ---
 
-### 🚀 Sobre mí
+### Sobre mí
 
-Soy estudiante de **Ingeniería Multimedia** en la **Universidad Militar Nueva Granada**, apasionado por el desarrollo web front-end y la creación de experiencias digitales innovadoras.  
-He complementado mi formación con cursos de **Meta** en desarrollo web, adquiriendo bases sólidas en **HTML, CSS, JavaScript, React, Bootstrap y Tailwind**.  
-Además, mi experiencia en **diseño gráfico, animación y motion graphics** me permite integrar la creatividad en cada interfaz que desarrollo.  
+Soy estudiante de Ingeniería Multimedia en la Universidad Militar Nueva Granada, apasionado por el desarrollo web front-end y la creación de experiencias digitales innovadoras.  
+He complementado mi formación con cursos de Meta en desarrollo web, adquiriendo bases sólidas en HTML, CSS, JavaScript, React, Bootstrap y Tailwind.  
+Además, mi experiencia en diseño gráfico, animación y motion graphics me permite integrar la creatividad en cada interfaz que desarrollo.  
 
-> 🎯 Mi objetivo: aplicar mis conocimientos en un entorno profesional, seguir aprendiendo y aportar a proyectos digitales con impacto.
-
----
-
-### 🧰 Tecnologías y Herramientas
-
-| Lenguajes | Frameworks / Librerías | Diseño / Multimedia | Otros |
-|------------|-------------------------|----------------------|--------|
-| HTML, CSS, JavaScript | React, TailwindCSS, Bootstrap | Photoshop, Illustrator, Blender, After Effects | Git, GitHub, Figma |
+> Mi objetivo: aplicar mis conocimientos en un entorno profesional, seguir aprendiendo y aportar a proyectos digitales con impacto.
 
 ---
 
-### 🎓 Educación
+### Tecnologías y Herramientas
 
-- 🎓 **Ingeniería en Multimedia** — Universidad Militar Nueva Granada (2021 - Presente)  
-- 🤖 **Intercambio en Inteligencia Artificial** — Instituto Politécnico Internacional, CDMX (2024 - 2025)
-- 🤖 **Curso de Introudccion al desarrollo web**
-- 🌍 **Inglés Nivel C1** — Academia Smart  
-- 🎓 **Bachillerato** — Colegio Santa Bárbara (2020)
+#### Lenguajes
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### Frameworks y Librerías
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### Diseño y Multimedia
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+
+#### Otros
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 
 ---
 
-### 💡 Habilidades blandas
+### Educación
 
-- 💬 Comunicación efectiva  
-- 🤝 Trabajo en equipo  
-- 🎯 Liderazgo e integridad  
-- 🧠 Creatividad e innovación  
+-  **Ingeniería en Multimedia** — Universidad Militar Nueva Granada (2021 - Presente)  
+-  **Intercambio en Inteligencia Artificial** — Instituto Politécnico Internacional, CDMX (2024 - 2025)
+-  **Curso de Introudccion al desarrollo web**
+-  **Inglés Nivel C1** — Academia Smart  
+-  **Bachillerato** — Colegio Santa Bárbara (2020)
 
 ---
 
-### 📫 Contacto
+### Habilidades blandas
 
-📍 **Tabio, Cundinamarca, Colombia**  
-📧 **dspaezcastaneda.04@gmail.com**  
-📱 **(+57) 318 291 2633**  
+-  Comunicación efectiva  
+-  Trabajo en equipo  
+-  Liderazgo e integridad  
+-  Creatividad e innovación  
+
+---
+
+### Contacto
+
+ **Tabio, Cundinamarca, Colombia**  
+ **dspaezcastaneda.04@gmail.com**  
+ **(+57) 318 291 2633**  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/david-santiago-paez-789b1b311)  
 🎨 [ArtStation](https://www.artstation.com/davidpaez_animator)
 
 ---
 
-### 🌱 Actualmente aprendiendo
-- React avanzado ⚛️  
-- Integración con Firebase 🔥  
-- UX/UI para interfaces interactivas 🎨  
+### Actualmente aprendiendo
+- React avanzado  
+- Integración con Firebase   
+- UX/UI para interfaces interactivas  
 
 ---
 
