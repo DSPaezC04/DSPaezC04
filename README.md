@@ -1,5 +1,11 @@
 <!-- 🌟 README de presentación personal en GitHub -->
-<div style="font-family:Georgia, serif;">
+<!-- 🌟 Encabezado animado con fuente Georgia -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=26&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+%C2%A1Hola!+Soy+David+Santiago+P%C3%A1ez;Desarrollador+Front-End;Creativo+Digital+Multimedia" alt="Typing SVG" />
+</p>
+
+---
 <h1 align="center"><span style="color:#4FC3F7;">David Santiago Páez</span></h1>
 <h3 align="center"> Estudiante de Ingeniería Multimedia | Desarrollador Front-End | Creativo Digital</h3>
 
@@ -79,4 +85,4 @@ Mi objetivo es aplicar mis conocimientos en un entorno profesional, seguir apren
 ---
 
 *Gracias por visitar mi perfil. Si te interesa colaborar en proyectos creativos o de desarrollo web, ¡no dudes en contactarme!*  
-</div>
+
