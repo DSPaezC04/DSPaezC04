@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center"><span style="color:#4FC3F7;">David Santiago Páez</span></h1>
+<h1 align="center"><span style="color:#4FC3F7;">David Santiago Páez Castañeda</span></h1>
 <h3 align="center"> Estudiante de Ingeniería Multimedia | Desarrollador Front-End | Creativo Digital</h3>
 
 ---
