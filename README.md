@@ -1,6 +1,6 @@
 <!-- 🌟 README de presentación personal en GitHub -->
-
-<h1 align="center">👋 ¡Hola! Soy <span style="color:#4FC3F7;">David Santiago Páez</span></h1>
+<div style="font-family:Georgia, serif;">
+<h1 align="center"><span style="color:#4FC3F7;">David Santiago Páez</span></h1>
 <h3 align="center"> Estudiante de Ingeniería Multimedia | Desarrollador Front-End | Creativo Digital</h3>
 
 ---
@@ -11,7 +11,7 @@ Soy estudiante de Ingeniería Multimedia en la Universidad Militar Nueva Granada
 He complementado mi formación con cursos de Meta en desarrollo web, adquiriendo bases sólidas en HTML, CSS, JavaScript, React, Bootstrap y Tailwind.  
 Además, mi experiencia en diseño gráfico, animación y motion graphics me permite integrar la creatividad en cada interfaz que desarrollo.  
 
-> Mi objetivo: aplicar mis conocimientos en un entorno profesional, seguir aprendiendo y aportar a proyectos digitales con impacto.
+Mi objetivo es aplicar mis conocimientos en un entorno profesional, seguir aprendiendo y aportar a proyectos digitales con impacto.
 
 ---
 
@@ -78,4 +78,5 @@ Además, mi experiencia en diseño gráfico, animación y motion graphics me per
 
 ---
 
-⭐️ *Gracias por visitar mi perfil. Si te interesa colaborar en proyectos creativos o de desarrollo web, ¡no dudes en contactarme!*  
+*Gracias por visitar mi perfil. Si te interesa colaborar en proyectos creativos o de desarrollo web, ¡no dudes en contactarme!*  
+</div>
