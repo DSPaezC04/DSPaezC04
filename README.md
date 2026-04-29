@@ -1,84 +1,98 @@
-<!-- 🌟 README de presentación personal en GitHub -->
+# David Santiago Páez Castañeda
 
+<h3 align="center">AI & Machine Learning Enthusiast | Multimedia Engineer | Data-Driven Builder</h3>
 
-
-<h1 align="center"><span style="color:#4FC3F7;">David Santiago Páez Castañeda</span></h1>
-<h3 align="center"> Estudiante de Ingeniería Multimedia | Desarrollador Front-End | Creativo Digital</h3>
-
----
-
-### Sobre mí
-
-Soy estudiante de Ingeniería Multimedia en la Universidad Militar Nueva Granada, apasionado por el desarrollo web front-end y la creación de experiencias digitales innovadoras.  
-He complementado mi formación con cursos de Meta en desarrollo web, adquiriendo bases sólidas en HTML, CSS, JavaScript, React, Bootstrap y Tailwind.  
-Además, mi experiencia en diseño gráfico, animación y motion graphics me permite integrar la creatividad en cada interfaz que desarrollo.  
-
-Mi objetivo es aplicar mis conocimientos en un entorno profesional, seguir aprendiendo y aportar a proyectos digitales con impacto.
+<p align="center">
+  <a href="https://github.com/DSPaezC04"><img src="https://img.shields.io/github/followers/DSPaezC04?label=GitHub&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/david-santiago-paez-789b1b311"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <img src="https://img.shields.io/badge/English-C1-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Internships-orange?style=for-the-badge" />
+</p>
 
 ---
 
-### Tecnologías y Herramientas
+## About Me
 
-#### Lenguajes
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
-
-#### Frameworks y Librerías
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-
-#### Diseño y Multimedia
-[![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
-[![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
-[![Maya](https://img.shields.io/badge/Maya-00BFFF?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/maya/overview)
-[![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)](https://www.adobe.com/products/aftereffects.html)
-
-#### Otros
-[![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-
+Final-year Multimedia Engineering student at Universidad Militar Nueva Granada.
+Passionate about Artificial Intelligence, Machine Learning, and Data Analytics.
+Interested in applying AI to business operations, forecasting, logistics, and process optimization.
+Academic exchange experience in Mexico focused on AI.
+Strong blend of technical skills + creativity + communication.
 
 ---
 
-### Educación
+## Technical Skills
 
--  **Ingeniería en Multimedia** — Universidad Militar Nueva Granada (2021 - Presente)  
--  **Intercambio en Inteligencia Artificial** — Instituto Politécnico Internacional, CDMX (2024 - 2025)
--  **Curso de Introudccion al desarrollo web**
--  **Inglés Nivel C1** — Academia Smart  
--  **Bachillerato** — Colegio Santa Bárbara (2020)
+### Programming & Data
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-### Habilidades blandas
+### Machine Learning
 
--  Comunicación efectiva  
--  Trabajo en equipo  
--  Liderazgo e integridad  
--  Creatividad e innovación  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-ML-informational?style=for-the-badge)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-ML-success?style=for-the-badge)
+![KNN](https://img.shields.io/badge/KNN-ML-blueviolet?style=for-the-badge)
 
----
+### Development Tools
 
-### Contacto
-
- **Tabio, Cundinamarca, Colombia**  
- **dspaezcastaneda.04@gmail.com**  
- **(+57) 318 291 2633**  
-
-🔗 [LinkedIn](https://www.linkedin.com/in/david-santiago-paez-789b1b311)  
-🎨 [ArtStation](https://www.artstation.com/davidpaez_animator)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
 
 ---
 
-### Actualmente aprendiendo
-- React avanzado  
-- Integración con Firebase   
-- UX/UI para interfaces interactivas  
+## Featured Projects
+
+### Customer Churn Prediction
+
+Built a Logistic Regression model using a telecom dataset to identify customers likely to leave.
+
+### California Housing Price Prediction
+
+Compared Linear Regression and Polynomial Regression models for housing price prediction.
+
+### Vehicle CO2 Emissions Prediction
+
+Predicted vehicle emissions using engine size, cylinders, and fuel consumption.
+
+### Salary Prediction Model
+
+Estimated salary based on years of experience using Linear Regression.
 
 ---
 
-*Gracias por visitar mi perfil. Si te interesa colaborar en proyectos creativos o de desarrollo web, ¡no dudes en contactarme!*  
+## Currently Learning
+
+* IBM Generative AI Engineering Professional Certificate
+* Advanced Machine Learning
+* Model Deployment
+* SQL for Analytics
+* Power BI
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=DSPaezC04&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSPaezC04&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+## Contact
+
+Email: **[dspaezcastaneda.04@gmail.com](mailto:dspaezcastaneda.04@gmail.com)**
+LinkedIn: [https://linkedin.com/in/david-santiago-paez-789b1b311](https://linkedin.com/in/david-santiago-paez-789b1b311)
+ArtStation: [https://www.artstation.com/davidpaez_animator](https://www.artstation.com/davidpaez_animator)
+
+---
+
+*Always open to internships, collaboration, and AI-driven opportunities.*
+
 
